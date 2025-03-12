@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/sachintha-lakshan-ba293a2b4/">
    <img align="center" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg"  height="50" width="50" />
 </a>
-<a href="https://www.hackerrank.com/sachintha_lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachintha_lakshan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sachintha2001la1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachintha_lakshan" height="60" width="60" /></a>
 </p>
 
 ---
@@ -68,4 +68,5 @@
 </div>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
