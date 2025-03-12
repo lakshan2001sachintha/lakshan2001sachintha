@@ -11,17 +11,15 @@
 ---
 
 
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I’m currently learning **Spring Boot / C# (.NET) / MERN**
 
 - 👨‍🎓 I’m undergraduate **Faculty of Computing SUSL**
 
 - 📫 How to reach me **sachintha2001lakshan@gmail.com**
 
-- ⚡ Fun fact **My nickname is Wigan"**
-
-<div align="right">
-   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Right Aligned Image">
-</div>
+- ⚡ Fun fact **My nickname is "Wigan"**
 
 
 ---
@@ -39,7 +37,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sachintha-lakshan-ba293a2b4/">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
+   <img align="center" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg"  height="50" width="50" />
 </a>
 <a href="https://www.hackerrank.com/sachintha_lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachintha_lakshan" height="30" width="40" /></a>
 </p>
