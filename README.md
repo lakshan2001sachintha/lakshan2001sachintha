@@ -13,7 +13,7 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning **Spring Boot / C# (.NET) / MERN**
+- 🌱 I’m currently learning **Spring Boot /  MERN**
 
 - 👨‍🎓 I’m undergraduate **Faculty of Computing SUSL**
 
